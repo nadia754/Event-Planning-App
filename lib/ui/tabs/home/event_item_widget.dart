@@ -53,7 +53,7 @@ class EventItemWidget extends StatelessWidget {
               mainAxisAlignment: MainAxisAlignment.spaceBetween,
               children: [
                 Text(
-                  "This is a Birthday Party ",
+                  "This is a Birthday Party for women ",
                   style: AppStyles.mediumBlackBold14,
                 ),
                 Icon(
